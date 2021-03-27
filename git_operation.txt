@@ -1,0 +1,1 @@
+git push https://uni51@github.com/uni51/nuxt_firebase_chat2.git master
